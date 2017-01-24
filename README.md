@@ -1,5 +1,6 @@
-# hackers jobs
+# Hacker Jobs & culture
 
-![](http://d2bp8fgbl9n5td.cloudfront.net/assets/jobs/team-photo-b7ffb2a71b274e655cf7720178797380.jpg)
+![](http://rsrbs-production.s3.amazonaws.com/logo.png)
 
-Revisa el wiki para más información: https://github.com/reserbus/hackers/wiki
+Revisa el wiki para más información: 
+https://github.com/reservamos/hackers/wiki
